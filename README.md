@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshijagati" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshijagati?logo=twitter&style=for-the-badge" alt="priyanshijagati" /></a> </p>
 
-- 🔭 I’m currently working on **Project named VIRTUAL SPACE ORGANIZER**
-
 - 🌱 I’m currently learning **Full Stack development**
 
 - 👯 I’m looking to collaborate on **Developing a website project**
