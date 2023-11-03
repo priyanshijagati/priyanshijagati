@@ -1,4 +1,6 @@
-[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://priyanshijagati.io)
+[![MasterHead](https://webitexperts.com/images/banner1_1.gif) ](https://priyanshijagati.io)
+
+
 <h1 align="center">Hi 👋, I'm PRIYANSHI JAGATI</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
@@ -6,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshijagati" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshijagati?logo=twitter&style=for-the-badge" alt="priyanshijagati" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack development**
+- 🌱 I’m currently learning **Backend framework**
 
 - 👯 I’m looking to collaborate on **Developing a website project**
 
